@@ -8,7 +8,7 @@
 		"type": "git",
 		"url": "git://github.com/beatgammit/tar-async.git"
 	},
-	"main": "index.js",
+	"main": "lib/index.js",
 	"directories": {
 		"lib": "."
 	},
