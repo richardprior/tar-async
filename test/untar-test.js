@@ -8,7 +8,6 @@ var Untar = require('../lib/untar');
 var artifactsPath = path.join(__dirname, 'artifacts');
 
 var testTarPath = path.join(artifactsPath, 'untar-test.tar');
-var testFile1Path = path.join(artifactsPath, 'test-file-1.txt');
 
 describe('untar', function () {
 	it('can untar an archive', function (done) {
