@@ -27,6 +27,7 @@
     "async": "~0.1.22"
   },
   "devDependencies": {
-    "forEachAsync": "~2.2.0"
+    "chai": "~1.8.1",
+    "mocha": "~1.14.0"
   }
 }
